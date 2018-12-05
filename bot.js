@@ -41,7 +41,7 @@ client.on('message', message => {
 
 // -say
 
-  if (command === "1say") {
+  if (command === "say") {
 
           message.delete()
 
